@@ -83,7 +83,7 @@ COSO 2013 Internal Control — Integrated Framework
 | Status | **Partially Addressed** |
 |---|---|
 | **Coverage** | F01, F04, F10, F15 |
-| **Analysis** | IT organisational structures exist but are inconsistent across acquisitions. Authority for IT decisions is undefined (F01, F04). IT roles lack standardised responsibility definitions (F10). Resource allocation authority is fragmented (F15). |
+| **Analysis** | IT organisational structures exist but are inconsistent across acquisitions. Authority for IT decisions is undefined (F01, F04). IT roles lack standardized responsibility definitions (F10). Resource allocation authority is fragmented (F15). |
 | **Gap** | No enterprise-wide IT organisation chart. IT authority matrix not documented. Role duplication and gaps exist across entities. |
 
 #### Principle 4 — Demonstrates Commitment to Competence
@@ -155,8 +155,8 @@ COSO 2013 Internal Control — Integrated Framework
 | Status | **Partially Addressed** |
 |---|---|
 | **Coverage** | F07, F08, F12, F14 |
-| **Analysis** | IT general controls (ITGCs) are not documented or tested (F12). Security controls are basic (F08) and not standardised across entities. Operations controls (F14) are informal. Post-merger technology integration (F07) has introduced control gaps. |
-| **Gap** | ITGCs (access, change, operations, program development) are undocumented. No control testing programme. |
+| **Analysis** | IT general controls (ITGCs) are not documented or tested (F12). Security controls are basic (F08) and not standardized across entities. Operations controls (F14) are informal. Post-merger technology integration (F07) has introduced control gaps. |
+| **Gap** | ITGCs (access, change, operations, program development) are undocumented. No control testing program. |
 
 #### Principle 12 — Deploys Controls through Policies and Procedures
 
@@ -204,7 +204,7 @@ COSO 2013 Internal Control — Integrated Framework
 |---|---|
 | **Coverage** | F02, F06, F11 |
 | **Analysis** | No ongoing or periodic evaluation of IT internal controls. The absence of an IT steering committee (F02) means no governance oversight body conducts evaluations. Benefits realisation reviews (F06) are absent. Performance monitoring (F11) is not conducted. |
-| **Gap** | No internal control evaluation programme. No IT audit function. Evaluation scope and frequency are undefined. |
+| **Gap** | No internal control evaluation program. No IT audit function. Evaluation scope and frequency are undefined. |
 
 #### Principle 17 — Evaluates and Communicates Deficiencies
 

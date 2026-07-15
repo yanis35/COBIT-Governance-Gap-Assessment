@@ -1,12 +1,12 @@
 # Executive Summary — Board and Leadership
 
-**Document:** 06-Executive-Summary.md | **Assessment:** OmniCare Health IT Governance Gap Assessment | **Prepared For:** Board of Directors, Executive Leadership Team | **Date:** Q2 2026
+**Document:** 06-Executive-Summary.md | **Assessment:** OmniCare Health IT Governance Gap Assessment | **Prepared for:** Board of Directors, Executive Leadership Team | **Date:** Q2 2026
 
 ---
 
 ## Assessment Overview
 
-This report presents the findings of a comprehensive IT governance gap assessment conducted at OmniCare Health during Q2 2026. The assessment evaluated **19 COBIT 2019 governance and management objectives** across five domains, mapped each finding to **COSO Internal Control — Integrated Framework (2013) principles**, and developed a prioritised remediation roadmap.
+This report presents the findings of a comprehensive IT governance gap assessment conducted at OmniCare Health during Q2 2026. The assessment evaluated **19 COBIT 2019 governance and management objectives** across five domains, mapped each finding to **COSO Internal Control — Integrated Framework (2013) principles**, and developed a prioritized remediation roadmap.
 
 ### Why This Assessment Was Undertaken
 
@@ -26,13 +26,13 @@ OmniCare Health has grown from a focused telemedicine provider to a $200M health
 
 | Metric | Result |
 |---|---|
-| **Current Average Maturity** | **1.47 / 5.0** (Performed / Ad-hoc) |
+| **Current Average Maturity** | **1.37 / 5.0** (Performed / Ad-hoc) |
 | **Target Average Maturity** | **3.16 / 5.0** (Defined / Standardized) |
-| **Average Maturity Gap** | **1.68** |
+| **Average Maturity Gap** | **1.79** |
 | **Objectives Below Target** | **19 of 19** (100%) |
 | **Critical-Risk Findings** | **4** |
-| **High-Risk Findings** | **6** |
-| **Medium-Risk Findings** | **5** |
+| **High-Risk Findings** | **7** |
+| **Medium-Risk Findings** | **4** |
 
 ### Maturity by Domain
 
@@ -173,7 +173,7 @@ The four critical-risk findings — absence of governance framework, no steering
 
 Critically, the recommended investment of **$1.6M–$2.5M** is expected to deliver **$4.1M–$6.8M** in annual benefits through cost optimisation (reducing IT spend from 5.2% to 3.8% of revenue), risk reduction (lower insurance premiums, avoided incidents), and SOX compliance (avoiding material weakness findings).
 
-**The cost of inaction** — continued regulatory exposure, fragmented IT costs, inability to achieve SOX compliance, and elevated security risk — far exceeds the investment required to reach a defined, standardised governance state.
+**The cost of inaction** — continued regulatory exposure, fragmented IT costs, inability to achieve SOX compliance, and elevated security risk — far exceeds the investment required to reach a defined, standardized governance state.
 
 ---
 

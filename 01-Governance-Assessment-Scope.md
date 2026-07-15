@@ -33,7 +33,7 @@ OmniCare Health has experienced rapid expansion through three acquisitions over 
 ### 2.1 In-Scope
 
 - **Organizational units:** Corporate IT, Information Security, Engineering, Product Management, Finance/Compliance, and all three acquired subsidiaries
-- **Processes:** IT governance structure, strategic planning, risk management, security management, project/programme management, IT operations, vendor management, compliance monitoring
+- **Processes:** IT governance structure, strategic planning, risk management, security management, project/program management, IT operations, vendor management, compliance monitoring
 - **Systems:** Telemedicine platform, patient data management system, EHR integration layer, corporate ERP/CRM, identity management infrastructure
 - **Regulatory:** SOX readiness, HIPAA/HITECH compliance, GDPR (EU patient data)
 

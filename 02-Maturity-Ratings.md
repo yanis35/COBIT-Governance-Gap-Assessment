@@ -13,7 +13,7 @@
 | **BAI** — Build, Acquire and Implement | 2 | **1.50** | **3.00** | **1.50** |
 | **DSS** — Deliver, Service and Support | 2 | **2.00** | **3.50** | **1.50** |
 | **MEA** — Monitor, Evaluate and Assess | 3 | **1.00** | **3.00** | **2.00** |
-| **Overall** | **19** | **1.47** | **3.16** | **1.68** |
+| **Overall** | **19** | **1.37** | **3.16** | **1.79** |
 
 ### Maturity Distribution
 
@@ -49,7 +49,7 @@
                        APO12
                        APO13
 
-  Legend: Current (1.47) ---  Target (3.16) ---
+  Legend: Current (1.37) ---  Target (3.16) ---
   All axes scale 0 (center) to 5 (outer edge).
 ```
 
@@ -193,7 +193,7 @@
 | **Target Maturity** | **3** — Defined (Standardized) |
 | **Gap** | **2** |
 | **Evidence** | No standardized project management methodology (PMBOK, PRINCE2, Agile-at-scale). Projects are managed inconsistently across teams. No project portfolio management process or PMO. |
-| **Key Observations** | Integration projects from the three acquisitions are behind schedule (average 40% delay). No centralized tracking of project status, budget, or resource utilisation. Post-mortems are not conducted. |
+| **Key Observations** | Integration projects from the three acquisitions are behind schedule (average 40% delay). No centralized tracking of project status, budget, or resource utilization. Post-mortems are not conducted. |
 
 ### BAI03 — Manage Solutions Identification and Build
 

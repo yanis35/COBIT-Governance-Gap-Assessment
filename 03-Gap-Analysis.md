@@ -96,7 +96,24 @@
 | **COSO Principles** | 7 (Identifies and analyses risks), 11 (Selects and develops general control activities over technology), 12 (Deploys controls through policies and procedures) |
 | **Description** | While a CISO and security team exist, the security program is not mature. No ISO 27001-aligned ISMS, no formal vulnerability management, no security awareness program, and no security metrics. Security policies from acquired entities are inconsistent. |
 | **Root Cause** | Security investment prioritized technology (tools) over governance (policies, processes, metrics). Acquisitions introduced heterogeneous security postures. |
-| **Business Impact** | Elevated risk of data breach (healthcare data), HIPAA violation exposure, patient safety risk, reputational damage, potential FINRA/SEC implications as company scales. |
+| **Business Impact** | Elevated risk of data breach (healthcare data), HIPAA violation exposure, patient safety risk, reputational damage, potential HHS/OCR implications as company scales. |
+
+---
+
+### F15 — Ineffective Resource Optimisation
+
+| Attribute | Detail |
+|---|---|
+| **Gap ID** | F15 |
+| **COBIT Objectives** | EDM04 (Ensure Resource Optimisation) |
+| **Current Maturity** | **2** — Managed (Basic) |
+| **Target Maturity** | **3** — Defined (Standardized) |
+| **Maturity Gap** | **1** |
+| **Risk Rating** | **Medium** |
+| **COSO Principles** | 3 (Structure and authority), 10 (Control activities) |
+| **Description** | IT budget management is siloed by department. Duplicate tools and platforms across acquired entities (3 EHR systems, 2 identity platforms) indicate resource inefficiency. IT spend at 5.2% of revenue (benchmark: 3.8%) suggests 25-30% cost optimisation opportunity. |
+| **Root Cause** | No enterprise-level IT resource planning or portfolio rationalisation. Acquisitions integrated operationally but not technologically. |
+| **Business Impact** | Higher than necessary IT operating costs, capital tied up in redundant systems, inability to redirect resources to strategic initiatives. |
 
 ---
 
@@ -159,7 +176,7 @@
 | **Risk Rating** | **Medium** |
 | **COSO Principles** | 10 (Control activities), 13 (Information and communication) |
 | **Description** | No enterprise architecture function, framework, or repository. System documentation is incomplete and outdated. No technology standards or reference architecture. Integration between the telemedicine platform and acquired EHR systems is managed via point-to-point integrations. |
-| **Root Cause** | Engineering-led culture prioritised speed of delivery over architectural governance. No architect role established. |
+| **Root Cause** | Engineering-led culture prioritized speed of delivery over architectural governance. No architect role established. |
 | **Business Impact** | Increasing integration debt, higher cost of change, inability to assess technology landscape for strategic decisions, slower time-to-market for new features. |
 
 ### F10 — Weak IT Human Resource Management
@@ -173,7 +190,7 @@
 | **Maturity Gap** | **1** |
 | **Risk Rating** | **Medium** |
 | **COSO Principles** | 3 (Authority and responsibility), 4 (Commitment to competence) |
-| **Description** | IT roles and responsibilities are defined at the team level but not standardised enterprise-wide. No IT competency framework, no structured career paths, and no formal training program. Voluntary turnover in IT is 12% (vs. 8% benchmark). |
+| **Description** | IT roles and responsibilities are defined at the team level but not standardized enterprise-wide. No IT competency framework, no structured career paths, and no formal training program. Voluntary turnover in IT is 12% (vs. 8% benchmark). |
 | **Root Cause** | Post-acquisition, key IT personnel left due to role ambiguity. HR and IT have not partnered to develop a workforce plan. |
 | **Business Impact** | Loss of institutional knowledge, difficulty retaining talent, inconsistent skill levels across teams, increased recruitment cost. |
 
@@ -193,7 +210,7 @@
 | **Risk Rating** | **High** |
 | **COSO Principles** | 7 (Risk identification and analysis), 11 (General control activities over technology) |
 | **Description** | Three acquisitions in 24 months have not been systematically integrated into OmniCare's IT environment. Each acquired entity operates on separate infrastructure, separate identity systems, and separate application stacks. Integration projects average 40% behind schedule. |
-| **Root Cause** | No formal post-merger IT integration playbook. Integration treated as a project rather than a programme. Insufficient resourcing of integration efforts. |
+| **Root Cause** | No formal post-merger IT integration playbook. Integration treated as a project rather than a program. Insufficient resourcing of integration efforts. |
 | **Business Impact** | Operational inefficiency, inability to realise acquisition synergies, security vulnerabilities from unintegrated systems, customer experience fragmentation. |
 
 ---
@@ -263,21 +280,6 @@
 | **Description** | Compliance with HIPAA/HITECH is managed manually. No compliance management tool, no central register of obligations, and no automated monitoring. The compliance function is understaffed (1 FTE for 1,200 employees). Regulatory change monitoring is manual. |
 | **Root Cause** | Compliance headcount not scaled with organizational growth. Compliance viewed as a manual, document-centric activity rather than a continuous process. |
 | **Business Impact** | Risk of non-compliance with healthcare regulations, potential for regulatory fines, reputational damage, inability to demonstrate compliance to auditors efficiently. |
-
-### F15 — Ineffective Resource Optimisation
-
-| Attribute | Detail |
-|---|---|
-| **Gap ID** | F15 |
-| **COBIT Objectives** | EDM04 (Ensure Resource Optimisation) |
-| **Current Maturity** | **2** — Managed (Basic) |
-| **Target Maturity** | **3** — Defined (Standardized) |
-| **Maturity Gap** | **1** |
-| **Risk Rating** | **Medium** |
-| **COSO Principles** | 3 (Structure and authority), 10 (Control activities) |
-| **Description** | IT budget management is siloed by department. Duplicate tools and platforms across acquired entities (3 EHR systems, 2 identity platforms) indicate resource inefficiency. IT spend at 5.2% of revenue (benchmark: 3.8%) suggests 25-30% cost optimisation opportunity. |
-| **Root Cause** | No enterprise-level IT resource planning or portfolio rationalisation. Acquisitions integrated operationally but not technologically. |
-| **Business Impact** | Higher than necessary IT operating costs, capital tied up in redundant systems, inability to redirect resources to strategic initiatives. |
 
 ---
 

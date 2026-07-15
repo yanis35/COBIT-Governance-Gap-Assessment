@@ -1,6 +1,6 @@
 # Prioritized Recommendations and Implementation Roadmap
 
-**Document:** 04-Prioritized-Recommendations.md | **Assessment:** OmniCare Health IT Governance | **Total Recommendations:** 12
+**Document:** 04-Prioritized-Recommendations.md | **Assessment:** OmniCare Health IT Governance | **Total Recommendations:** 14
 
 ---
 
@@ -30,6 +30,8 @@
 | R10 | Formalise IT Operations Management Processes | F14 | **P3** | 4 months | DSS01: 2→3 |
 | R11 | Develop IT HR Competency and Workforce Framework | F10 | **P3** | 3 months | APO07: 2→3 |
 | R12 | Implement Compliance Management Program | F13 | **P2** | 5 months | MEA03: 1→3 |
+| R13 | Establish IT Decision Rights Framework | F04 | **P1** | 8 weeks | APO01: 1→3, APO08: 1→3 |
+| R14 | Implement IT Resource Portfolio Rationalisation | F15 | **P2** | 6 weeks | EDM04: 2→3 |
 
 ---
 
@@ -90,7 +92,7 @@
 | **Effort** | 3 months |
 | **Investment** | $80K–$120K (internal PMO + external M&A IT advisor) |
 | **Expected Maturity Uplift** | BAI01: 1 → 3 |
-| **Description** | Develop a standardised post-merger IT integration playbook covering: Day 1 readiness, identity and access integration, application rationalisation, infrastructure consolidation, data migration, and security control harmonisation. Apply retroactively to existing acquisitions while creating a template for future M&A. |
+| **Description** | Develop a standardized post-merger IT integration playbook covering: Day 1 readiness, identity and access integration, application rationalisation, infrastructure consolidation, data migration, and security control harmonisation. Apply retroactively to existing acquisitions while creating a template for future M&A. |
 | **Success Metrics** | Integration playbook documented and approved; existing acquisitions have integration plans with milestone tracking; future acquisitions follow playbook from Day 1. |
 
 ---
@@ -106,6 +108,22 @@
 | **Expected Maturity Uplift** | APO13: 2 → 4, DSS05: 2 → 4 |
 | **Description** | Establish an information security management system (ISMS) aligned to ISO 27001. Implement a formal vulnerability management program with monthly scanning and remediation SLAs. Deploy a SIEM solution. Launch a mandatory security awareness training program. Conduct quarterly access reviews. Develop and test an incident response plan. |
 | **Success Metrics** | ISO 27001-aligned ISMS documented; vulnerability remediation SLA of 30 days for critical findings; 95% employee security awareness training completion; incident response plan tested through tabletop exercise. |
+
+---
+
+---
+
+#### R13 — Establish IT Decision Rights Framework
+
+| Attribute | Detail |
+|---|---|
+| **Associated Gaps** | F04 |
+| **Priority** | **P1 — Critical** |
+| **Effort** | 8 weeks |
+| **Investment** | $80K–$120K (consulting + process design) |
+| **Expected Maturity Uplift** | APO01: 1 → 3, APO08: 1 → 3 |
+| **Description** | Define clear decision rights, escalation paths, and a demand management process for IT investments and changes. Develop an IT decision rights RACI matrix covering all major IT decision categories. Establish a formal IT demand intake and approval process. Document escalation procedures for IT issues requiring executive attention. |
+| **Success Metrics** | IT decision rights RACI documented and approved; demand management process operational; 80% of IT procurement requests follow defined process within 3 months; escalation paths tested and understood. |
 
 ---
 
@@ -183,6 +201,22 @@
 
 ---
 
+---
+
+#### R14 — Implement IT Resource Portfolio Rationalisation
+
+| Attribute | Detail |
+|---|---|
+| **Associated Gaps** | F15 |
+| **Priority** | **P2 — High** |
+| **Effort** | 6 weeks |
+| **Investment** | $100K–$150K (consulting + tooling) |
+| **Expected Maturity Uplift** | EDM04: 2 → 3 |
+| **Description** | Conduct a full IT asset and resource inventory across all business units and acquired entities. Identify underutilized resources, duplicate systems, and consolidation opportunities. Develop a resource optimisation roadmap with cost-saving targets. Implement a resource portfolio management process with quarterly rationalisation reviews. |
+| **Success Metrics** | Complete IT asset inventory documented; resource optimisation roadmap approved; 10-15% IT cost reduction identified; quarterly rationalisation review cycle established. |
+
+---
+
 ### P3 — Standard (12–18 Months)
 
 ---
@@ -219,21 +253,21 @@
 
 ### Phase 1 — Quick Wins (Months 1–3)
 
-| Month | R01 | R02 | R03 | R04 | R05 |
-|---|---|---|---|---|---|
-| **M1** | Charter draft, stakeholder mapping | Strategy workshop planning | Risk framework selection | Playbook scoping | ISMS gap assessment |
-| **M2** | Steering committee formed | Strategic objective definition | Risk register creation | Playbook development | ISMS documentation |
-| **M3** | RACI matrix, GRC tool selection | KPI definition, roadmap draft | Risk appetite statement | Playbook approval | Vulnerability program launch |
+| Month | R01 | R02 | R03 | R04 | R05 | R13 |
+|---|---|---|---|---|---|---|---|
+| **M1** | Charter draft, stakeholder mapping | Strategy workshop planning | Risk framework selection | Playbook scoping | ISMS gap assessment | Decision rights assessment |
+| **M2** | Steering committee formed | Strategic objective definition | Risk register creation | Playbook development | ISMS documentation | RACI matrix design |
+| **M3** | RACI matrix, GRC tool selection | KPI definition, roadmap draft | Risk appetite statement | Playbook approval | Vulnerability program launch | Demand process launch |
 
 ### Phase 2 — Medium-Term (Months 4–8)
 
-| Month | R05 | R06 | R07 | R08 | R09 | R12 |
-|---|---|---|---|---|---|---|
-| **M4** | SIEM deployment | EA hiring | Business case template | Dashboard requirements | ITGC scoping | Compliance tool selection |
-| **M5** | Awareness program launch | ARB formation | Benefits tracking process | Dashboard prototype | Control documentation | Obligation register |
-| **M6** | Access review process | Current-state architecture | First post-implementation review | Dashboard go-live | Control testing | Automated evidence |
-| **M7** | Incident response testing | Target-state architecture | — | — | Remediation | Regulatory monitoring |
-| **M8** | Security program review | Roadmap approval | — | — | Pre-audit assessment | Compliance reporting |
+| Month | R05 | R06 | R07 | R08 | R09 | R12 | R14 |
+|---|---|---|---|---|---|---|---|---|
+| **M4** | SIEM deployment | EA hiring | Business case template | Dashboard requirements | ITGC scoping | Compliance tool selection | Asset inventory |
+| **M5** | Awareness program launch | ARB formation | Benefits tracking process | Dashboard prototype | Control documentation | Obligation register | Utilisation analysis |
+| **M6** | Access review process | Current-state architecture | First post-implementation review | Dashboard go-live | Control testing | Automated evidence | Rationalisation plan |
+| **M7** | Incident response testing | Target-state architecture | — | — | Remediation | Regulatory monitoring | Roadmap approval |
+| **M8** | Security program review | Roadmap approval | — | — | Pre-audit assessment | Compliance reporting | Review cycle launch |
 
 ### Phase 3 — Strategic (Months 9–18)
 
@@ -262,6 +296,8 @@
 | R10 — IT Operations | $100K–$150K | $200K–$400K (reduced downtime, productivity) | 6–9 months |
 | R11 — HR Competency Framework | $60K–$90K | $150K–$250K (reduced turnover, hiring cost) | 12 months |
 | R12 — Compliance Program | $100K–$150K | $300K–$500K (fine avoidance, audit efficiency) | 6–12 months |
+| R13 — IT Decision Rights Framework | $80K–$120K | $200K–$400K (faster decisions, reduced duplication) | 4–6 months |
+| R14 — Resource Portfolio Rationalisation | $100K–$150K | $300K–$500K (cost savings, consolidation) | 4–6 months |
 | **Total Investment** | **$1.6M–$2.5M** | **$4.1M–$6.8M** | **6–12 months avg.** |
 
 ---
@@ -276,7 +312,7 @@ By Q4 2027, OmniCare Health will operate at an **average IT governance maturity 
 - An ISO 27001-aligned security program with measurable metrics
 - Documented and tested IT general controls for SOX compliance
 - A comprehensive IT performance dashboard reporting to the board
-- Integrated operations with a standardised service management framework
+- Integrated operations with a standardized service management framework
 
 This target state positions OmniCare for successful SOX compliance, reduces IT risk to an acceptable level, and enables the organization to scale its technology operations efficiently through continued growth.
 

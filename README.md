@@ -13,17 +13,17 @@
 ## Assessment Summary
 
 | Metric | Value |
-|---|---|
+ |---|---|
 | Governance/Management Objectives Assessed | **19** COBIT 2019 objectives |
-| Governance Practices Reviewed | **14** focused findings identified |
-| Current Average Maturity | **1.47 / 5.0** (Performed / Ad-hoc) |
+| Findings / Gaps Identified | **15** findings identified |
+| Current Average Maturity | **1.37 / 5.0** (Performed / Ad-hoc) |
 | Target Average Maturity | **3.16 / 5.0** (Defined / Standardized) |
-| Average Maturity Gap | **1.68** |
+| Average Maturity Gap | **1.79** |
 | Critical-Risk Findings | **4** |
-| High-Risk Findings | **6** |
-| Medium-Risk Findings | **5** |
-| COSO 2013 Principles Mapped | **17 / 17** |
-| Prioritized Recommendations | **12** (P1: 5, P2: 5, P3: 2) |
+| High-Risk Findings | **7** |
+| Medium-Risk Findings | **4** |
+| COSO 2013 Principles Mapped | **17 / 17** (12 addressed, 5 unaddressed) |
+| Prioritized Recommendations | **14** (P1: 6, P2: 6, P3: 2) |
 
 **Bottom Line:** OmniCare Health operates at a **Level 1 (Performed/Ad-hoc)** maturity across most governance domains — a typical profile for a rapidly-scaled organization without a centralized IT governance function. An uplift to **Level 3 (Defined/Standardized)** is achievable within 12–18 months with executive sponsorship.
 
@@ -32,11 +32,11 @@
 ## Table of Contents
 
 | # | Document | Description |
-|---|---|---|
+|---|---|
 | 1 | [01-Governance-Assessment-Scope.md](./01-Governance-Assessment-Scope.md) | Assessment planning, scope, methodology, timeline |
 | 2 | [02-Maturity-Ratings.md](./02-Maturity-Ratings.md) | Detailed maturity ratings for 19 COBIT objectives |
 | 3 | [03-Gap-Analysis.md](./03-Gap-Analysis.md) | 15 findings with risk ratings and COSO mapping |
-| 4 | [04-Prioritized-Recommendations.md](./04-Prioritized-Recommendations.md) | 12 recommendations with roadmap and cost-benefit |
+| 4 | [04-Prioritized-Recommendations.md](./04-Prioritized-Recommendations.md) | 14 recommendations with roadmap and cost-benefit |
 | 5 | [05-COSO-Mapping.md](./05-COSO-Mapping.md) | COSO 2013 principle mapping heat map |
 | 6 | [06-Executive-Summary.md](./06-Executive-Summary.md) | Board-ready executive summary |
 
