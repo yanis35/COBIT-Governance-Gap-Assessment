@@ -26,32 +26,9 @@
 | 4 | Measured (Quantitative) | 0 |
 | 5 | Optimizing (Continuous) | 0 |
 
-### ASCII Radar Visualization
+### Radar Chart Visualization
 
-```
-                     EDM01
-                    /    \
-               MEA03      EDM02
-              /              \
-           MEA02                EDM03
-          /                      \
-        MEA01                      EDM04
-        |                          |
-       DSS05                      EDM05
-        |                          |
-        DSS01                      APO01
-          \                      /
-           BAI03                APO02
-             \                /
-               BAI01       APO03
-                    \    /
-                   APO08-APO07
-                       APO12
-                       APO13
-
-  Legend: Current (1.37) ---  Target (3.16) ---
-  All axes scale 0 (center) to 5 (outer edge).
-```
+Radar chart visualization available in board presentation (Appendix). Current maturity scores across all 19 objectives range from 1.0 to 1.8 with an average of 1.37.
 
 ---
 
@@ -148,7 +125,7 @@
 | **Current Maturity** | **2** — Managed (Basic) |
 | **Target Maturity** | **3** — Defined (Standardized) |
 | **Gap** | **1** |
-| **Evidence** | IT roles and responsibilities are defined at the team level but not standardized enterprise-wide. Training is primarily on-the-job. No formal IT competency framework or career progression model. |
+| **Evidence** | IT roles and responsibilities are defined at the team level but not standardized enterprise-wide. Training is conducted informally without a structured program. No formal IT competency framework or career progression model. |
 | **Key Observations** | Staff retention in IT is below industry average (12% voluntary turnover vs. 8% benchmark). Post-acquisition, key IT personnel from acquired entities left due to unclear career paths. |
 
 ### APO08 — Manage Relationships

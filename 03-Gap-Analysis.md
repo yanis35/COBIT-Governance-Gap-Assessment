@@ -12,6 +12,8 @@
 | **High** | Orange | Significant risk; medium-term remediation required |
 | **Medium** | Yellow | Moderate risk; should be addressed within planning cycle |
 
+No findings were rated Low. The 3×3 impact-likelihood matrix produces 5 theoretical levels, but the methodology collapses 'Very Low' into 'Low' and 'Very High' into 'Critical' for reporting clarity.
+
 ---
 
 ## Findings Summary
@@ -98,6 +100,8 @@
 | **Root Cause** | Security investment prioritized technology (tools) over governance (policies, processes, metrics). Acquisitions introduced heterogeneous security postures. |
 | **Business Impact** | Elevated risk of data breach (healthcare data), HIPAA violation exposure, patient safety risk, reputational damage, potential HHS/OCR implications as company scales. |
 
+*Cross-domain finding — primary domain: Management (APO/DSS)*
+
 ---
 
 ### F15 — Ineffective Resource Optimisation
@@ -164,6 +168,8 @@
 | **Root Cause** | No PMO function to enforce investment governance. No culture of benefits accountability. |
 | **Business Impact** | Inability to assess IT investment ROI, continued spend on low-value initiatives, difficulty justifying future IT budget requests to the board. |
 
+*Cross-domain finding — primary domain: Governance (EDM)*
+
 ### F09 — No Enterprise Architecture Function
 
 | Attribute | Detail |
@@ -229,7 +235,7 @@
 | **Risk Rating** | **Medium** |
 | **COSO Principles** | 10 (Control activities), 11 (General control activities over technology) |
 | **Description** | IT operations rely on a basic Jira service desk. Incident response is reactive. No formal problem management, change management is informal, and no service catalogue exists. Unapproved changes are common. MTTR for critical incidents is 8.2 hours (target: 4 hours). |
-| **Root Cause** | Operations team is understaffed and tasked with firefighting. No formal ITSM framework adopted. |
+| **Root Cause** | Operations team is understaffed and tasked with reactive issue resolution. No formal ITSM framework adopted. |
 | **Business Impact** | Extended system downtime, user dissatisfaction, risk of change-related incidents, inability to support business-critical healthcare platforms with required uptime. |
 
 ---

@@ -1,19 +1,19 @@
 # COBIT-Based IT Governance Gap Assessment — OmniCare Health
 
-**Assessment Date:** Q2 2026 | **Frameworks:** COBIT 2019 + COSO Internal Control — Integrated Framework (2013)
+**Assessment Date:** Q2 2026 | **Report Date:** June 30, 2026 | **Frameworks:** COBIT 2019 + COSO Internal Control — Integrated Framework (2013)
 
 ---
 
 ## Company Scenario
 
-**OmniCare Health** is a mid-sized healthcare technology company (1,200 employees, $200M annual revenue) that delivers telemedicine platforms and patient data management solutions. Following an aggressive growth strategy — three acquisitions in 24 months — OmniCare has inherited disparate IT systems, decentralized decision-making, and no unified governance layer. IT investments are managed in silos across business units, there is no IT steering committee, and governance practices are ad-hoc at best. This assessment positions OmniCare for **SOX readiness** and **enterprise risk management maturity**.
+**OmniCare Health** is a mid-sized healthcare technology company (1,200 employees, $200M annual revenue) that delivers telemedicine platforms and patient data management solutions. Following an aggressive growth strategy — three acquisitions in 24 months — OmniCare has inherited disparate IT systems, decentralized decision-making, and no unified governance layer. IT investments are managed in silos across business units. There is no IT steering committee. Governance practices are ad-hoc at best. This assessment positions OmniCare for **SOX readiness** and **enterprise risk management maturity**.
 
 ---
 
 ## Assessment Summary
 
 | Metric | Value |
- |---|---|
+|---|---|---|
 | Governance/Management Objectives Assessed | **19** COBIT 2019 objectives |
 | Findings / Gaps Identified | **15** findings identified |
 | Current Average Maturity | **1.37 / 5.0** (Performed / Ad-hoc) |

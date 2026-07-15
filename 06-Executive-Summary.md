@@ -88,20 +88,22 @@ While the overall maturity is low, the assessment identified several areas OmniC
 | Rank | Recommendation | Cost | Timeline | Maturity Uplift |
 |---|---|---|---|---|
 | **1** | **Establish IT Governance Framework & Steering Committee** (R01) | $150K–$200K | 3 months | EDM01: 1→3, EDM05: 1→3 |
-| **2** | **Implement Enterprise IT Risk Management** (R03) | $120K–$180K | 4 months | EDM03: 1→3, APO12: 1→3 |
-| **3** | **Launch IT Security Governance Program** (R05) | $250K–$400K | 6 months | APO13: 2→4, DSS05: 2→4 |
+| **2** | **Develop IT Strategy Aligned to Business Objectives** (R02) | $100K–$150K | 4 months | APO02: 2→4 |
+| **3** | **Create Post-Merger IT Integration Playbook** (R04) | $80K–$120K | 3 months | BAI01: 1→3 |
 | **4** | **Build Internal Control Framework for SOX Readiness** (R09) | $300K–$500K | 8 months | MEA02: 1→3 |
-| **5** | **Develop IT Strategy Aligned to Business Objectives** (R02) | $100K–$150K | 4 months | APO02: 2→4 |
+| **5** | **Establish IT Decision Rights Framework** (R13) | $80K–$120K | 8 weeks | APO01: 1→3, APO08: 1→3 |
+
+*Top 5 selected based on risk reduction impact and interdependency sequencing.*
 
 ### Business Impact of Top 5 Recommendations
 
 | Recommendation | Business Impact |
 |---|---|
 | R01 — Governance Framework | Ends fragmented IT decisions; enables controlled technology spend; provides governance infrastructure for all other initiatives |
-| R03 — Risk Management | Reduces regulatory exposure; enables informed risk-taking; lowers cyber insurance premiums (estimated 15–20% reduction) |
-| R05 — Security Governance | Reduces data breach risk for 400K+ patient records; supports HIPAA compliance; protects brand reputation |
-| R09 — SOX Internal Controls | Addresses material weakness risk; enables SOX Section 404 certification; avoids adverse auditor opinions |
 | R02 — IT Strategy | Aligns $10M+ annual IT spend to business priorities; enables data-driven investment decisions |
+| R04 — IT Integration Playbook | Standardizes post-merger integration, reduces integration delays and cost duplication |
+| R09 — SOX Internal Controls | Addresses material weakness risk; enables SOX Section 404 certification; avoids adverse auditor opinions |
+| R13 — IT Decision Rights Framework | Clarifies IT authority, eliminates shadow IT, and accelerates procurement decisions |
 
 ---
 
@@ -114,8 +116,8 @@ Current State (Q2 2026)                   Target State (Q4 2027)
 │  Ad-hoc governance  │                   │  Defined governance     │
 │  No ITSC            │  ──────────────►  │  IT Steering Committee  │
 │  Fragmented IT      │   12–18 months    │  Centralized decisions  │
-│  No risk process    │   12 initiatives  │  Embedded risk mgmt     │
-│  No internal ctrl   │   $1.6M–$2.5M     │  SOX-ready controls     │
+│  No risk process    │   14 initiatives  │  Embedded risk mgmt     │
+│  No internal ctrl   │   $1.78M–$2.73M   │  SOX-ready controls     │
 │  Weak security gov  │                   │  Measured security      │
 └─────────────────────┘                   └─────────────────────────┘
 ```
@@ -139,10 +141,10 @@ Current State (Q2 2026)                   Target State (Q4 2027)
 
 | Phase | Timeframe | Investment | Maturity Uplift |
 |---|---|---|---|
-| **Phase 1 — Quick Wins** | Months 1–3 | $450K–$650K | +0.4 maturity |
-| **Phase 2 — Medium-Term** | Months 4–8 | $650K–$1.1M | +0.8 maturity |
-| **Phase 3 — Strategic** | Months 9–18 | $600K–$800K | +0.5 maturity |
-| **Total** | **18 months** | **$1.6M–$2.5M** | **1.37 → 3.16** |
+| **Phase 1 — Quick Wins** | Months 1–3 | $400K–$600K | +0.4 maturity |
+| **Phase 2 — Medium-Term** | Months 4–8 | $700K–$1.1M | +0.8 maturity |
+| **Phase 3 — Strategic** | Months 9–18 | $680K–$1.03M | +0.59 maturity |
+| **Total** | **18 months** | **$1.78M–$2.73M** | **1.37 → 3.16** |
 
 **Estimated annual benefit:** $4.1M–$6.8M (cost savings, risk reduction, operational efficiency)
 
@@ -153,25 +155,26 @@ Current State (Q2 2026)                   Target State (Q4 2027)
 ## Recommended Next Steps
 
 | Step | Action | Owner | Timeline |
-|---|---|---|---|
-| 1 | Board review and approval of this assessment | CEO | 2 weeks |
-| 2 | Appoint IT Governance Sponsor (recommend CFO or CTO) | CEO | 2 weeks |
-| 3 | Approve Phase 1 budget ($450K–$650K) | Board | 1 month |
-| 4 | Launch R01 — Governance Framework and ITSC formation | Sponsor | Immediate |
-| 5 | Launch R03 — Risk Management Process implementation | Sponsor | Month 1 |
-| 6 | Launch R05 — Security Governance Program | CISO | Month 1 |
-| 7 | Initiate R09 — SOX Internal Controls workstream | CFO | Month 2 |
-| 8 | Schedule 6-month maturity reassessment | Internal Audit | Month 6 |
+|---|---|---|---|---|
+| 1 | Board review and approval of this assessment | CEO | Month 1 |
+| 2 | Establish IT Strategy & Governance Framework (R02) | CISO + Board | Month 1-2 |
+| 3 | Appoint IT Governance Sponsor (recommend CFO or CTO) | CEO | Month 1 |
+| 4 | Approve Phase 1 budget ($400K–$600K) | Board | Month 1 |
+| 5 | Launch R01 — Governance Framework and ITSC formation | Sponsor | Month 1 |
+| 6 | Launch R03 — Risk Management Process implementation | Sponsor | Month 1 |
+| 7 | Launch R05 — Security Governance Program | CISO | Month 1 |
+| 8 | Initiate R09 — SOX Internal Controls workstream | CFO | Month 2 |
+| 9 | Schedule 6-month maturity reassessment | Internal Audit | Month 6 |
 
 ---
 
 ## Conclusion
 
-OmniCare Health's IT governance maturity of **1.37/5.0** is characteristic of a rapidly scaled organization that has outgrown its informal governance model. The gap to the target of **3.16** is significant but achievable within **12–18 months** with executive commitment and a structured investment of **$1.6M–$2.5M**.
+OmniCare Health's IT governance maturity of **1.37/5.0** is characteristic of a rapidly scaled organization that has outgrown its informal governance model. The gap to the target of **3.16** is significant but achievable within **12–18 months** with executive commitment and a structured investment of **$1.78M–$2.73M**.
 
 The four critical-risk findings — absence of governance framework, no steering committee, no risk management process, and inadequate security governance — must be addressed as a priority. These foundational gaps underpin all other deficiencies and are prerequisites for SOX readiness.
 
-Critically, the recommended investment of **$1.6M–$2.5M** is expected to deliver **$4.1M–$6.8M** in annual benefits through cost optimization (reducing IT spend from 5.2% to 3.8% of revenue), risk reduction (lower insurance premiums, avoided incidents), and SOX compliance (avoiding material weakness findings).
+Critically, the recommended investment of **$1.78M–$2.73M** is expected to deliver **$4.1M–$6.8M** in annual benefits through cost optimization (reducing IT spend from 5.2% to 3.8% of revenue), risk reduction (lower insurance premiums, avoided incidents), and SOX compliance (avoiding material weakness findings).
 
 **The cost of inaction** — continued regulatory exposure, fragmented IT costs, inability to achieve SOX compliance, and elevated security risk — far exceeds the investment required to reach a defined, standardized governance state.
 

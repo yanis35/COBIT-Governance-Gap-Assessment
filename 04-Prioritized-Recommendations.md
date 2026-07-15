@@ -50,7 +50,7 @@
 | **Effort** | 3 months |
 | **Investment** | $150K–$200K (consulting + 1 FTE Governance Manager) |
 | **Expected Maturity Uplift** | EDM01: 1 → 3, EDM05: 1 → 3 |
-| **Description** | Develop and approve an IT governance charter defining decision rights, committee structures, and escalation paths. Establish a cross-functional IT Steering Committee (ITSC) meeting monthly with documented terms of reference. Create a RACI matrix for all key IT decisions. Deploy a governance, risk, and compliance (GRC) tool to manage policy artefacts. |
+| **Description** | Develop and approve an IT governance charter defining decision rights, committee structures, and escalation paths. Establish a cross-functional IT Steering Committee (ITSC) meeting monthly with documented terms of reference. Create a RACI matrix for all key IT decisions. Deploy a governance, risk, and compliance (GRC) tool to manage policy artefacts. Also addresses APO01 gap identified in F01 (see R13 for full APO01 remediation). |
 | **Success Metrics** | ITSC formed and meeting monthly; governance charter approved by board; decision rights RACI documented; 80% of IT decisions follow defined governance path within 6 months. |
 
 ---
@@ -197,7 +197,7 @@
 | **Investment** | $100K–$150K (compliance tooling + 1 FTE Compliance Analyst) |
 | **Expected Maturity Uplift** | MEA03: 1 → 3 |
 | **Description** | Implement a compliance management tool to centralize regulatory obligation registers (HIPAA, HITECH, GDPR, SOX). Establish automated control testing and evidence collection workflows. Implement regulatory change monitoring. Increase compliance headcount to support the expanded scope. |
-| **Success Metrics** | Centralised obligation register established; automated evidence collection for key controls; regulatory change monitoring in place; compliance reporting cycle established. |
+| **Success Metrics** | Centralized obligation register established; automated evidence collection for key controls; regulatory change monitoring in place; compliance reporting cycle established. |
 
 ---
 
@@ -262,7 +262,7 @@
 ### Phase 2 — Medium-Term (Months 4–8)
 
 | Month | R05 | R06 | R07 | R08 | R09 | R12 | R14 |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | **M4** | SIEM deployment | EA hiring | Business case template | Dashboard requirements | ITGC scoping | Compliance tool selection | Asset inventory |
 | **M5** | Awareness program launch | ARB formation | Benefits tracking process | Dashboard prototype | Control documentation | Obligation register | Utilization analysis |
 | **M6** | Access review process | Current-state architecture | First post-implementation review | Dashboard go-live | Control testing | Automated evidence | Rationalization plan |
@@ -298,7 +298,7 @@
 | R12 — Compliance Program | $100K–$150K | $300K–$500K (fine avoidance, audit efficiency) | 6–12 months |
 | R13 — IT Decision Rights Framework | $80K–$120K | $200K–$400K (faster decisions, reduced duplication) | 4–6 months |
 | R14 — Resource Portfolio Rationalization | $100K–$150K | $300K–$500K (cost savings, consolidation) | 4–6 months |
-| **Total Investment** | **$1.6M–$2.5M** | **$4.1M–$6.8M** | **6–12 months avg.** |
+| **Total Investment** | **$1.78M–$2.73M** | **$4.1M–$6.8M** | **6–12 months avg.** |
 
 ---
 

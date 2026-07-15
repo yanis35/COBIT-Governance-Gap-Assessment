@@ -33,7 +33,7 @@ OmniCare Health has experienced rapid expansion through three acquisitions over 
 ### 2.1 In-Scope
 
 - **Organizational units:** Corporate IT, Information Security, Engineering, Product Management, Finance/Compliance, and all three acquired subsidiaries
-- **Processes:** IT governance structure, strategic planning, risk management, security management, project/program management, IT operations, vendor management, compliance monitoring
+- **Processes:** IT governance structure, strategic planning, risk management, security management, project/programme management, IT operations, vendor management, compliance monitoring
 - **Systems:** Telemedicine platform, patient data management system, EHR integration layer, corporate ERP/CRM, identity management infrastructure
 - **Regulatory:** SOX readiness, HIPAA/HITECH compliance, GDPR (EU patient data)
 
@@ -91,6 +91,8 @@ OmniCare Health has experienced rapid expansion through three acquisitions over 
 | MEA02 | Monitor, Evaluate and Assess the System of Internal Control | 1 | 3 |
 | MEA03 | Monitor, Evaluate and Assess Compliance with External Requirements | 1 | 3 |
 
+The 21 remaining COBIT 2019 objectives were excluded as they fall outside the current assessment scope (governance and management of IT within acquired subsidiaries).
+
 ---
 
 ## 3. Methodology
@@ -117,7 +119,7 @@ OmniCare Health has experienced rapid expansion through three acquisitions over 
 
 **Phase 1 — Planning (Week 1):** Kick-off meeting, document request list, stakeholder identification, schedule interviews.
 
-**Phase 2 — Evidence Gathering (Weeks 2–4):** Semi-structured interviews with 15+ stakeholders; review of existing policies, procedures, org charts, meeting minutes, project artefacts; process walkthroughs for key domains (change management, incident response, procurement).
+**Phase 2 — Evidence Gathering (Weeks 2–4):** Semi-structured interviews with 15+ stakeholders; review of existing policies, procedures, org charts, meeting minutes, project artifacts; process walkthroughs for key domains (change management, incident response, procurement).
 
 **Phase 3 — Analysis and Rating (Weeks 5–6):** Evidence consolidated into objective-by-objective maturity assessments; gap calculations; risk ratings assigned using a 3×3 impact-likelihood matrix.
 
@@ -151,7 +153,7 @@ All interviews follow a structured protocol aligned to the COBIT 2019 assessment
 
 1. Confirm process scope and boundaries
 2. Walk through current process flow (as-is)
-3. Identify governance artefacts (policies, procedures, controls)
+3. Identify governance artifacts (policies, procedures, controls)
 4. Discuss performance metrics and monitoring
 5. Assess awareness and training
 6. Collect evidence references

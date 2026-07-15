@@ -70,6 +70,8 @@ COSO 2013 Internal Control — Integrated Framework
 | **Analysis** | OmniCare has a corporate code of conduct but no IT-specific ethical standards or governance code. The absence of an IT governance framework (F01) and steering committee (F02) means IT integrity standards are inconsistently applied. Fragmented IT decisions (F04) create opportunities for control bypass. The lack of an internal control framework (F12) and compliance program (F13) further erodes the control environment. |
 | **Gap** | No IT governance charter, no IT code of ethics, no defined IT values or expected behaviours. |
 
+*P1 is partially addressed through F12/F13 remediation. Full alignment requires additional governance-level controls beyond current scope.*
+
 #### Principle 2 — Board Exercises Oversight Responsibilities
 
 | Status | **Partially Addressed** |
@@ -249,7 +251,7 @@ COSO 2013 Internal Control — Integrated Framework
 | **4** | Risk Assessment (P6–P9) | F05, F07, F08 |
 | **5** | Information & Communication (P13–P15) | F03, F09 |
 
-**Note:** Addressing the five COBIT gaps in the EDM and MEA domains will simultaneously improve COSO Principles P1, P2, P5, P16, and P17, moving coverage from 71% to 88%+.
+**Note:** Addressing the five EDM governance gaps and three MEA monitoring gaps will simultaneously improve COSO Principles P1, P2, P5, P16, and P17, moving coverage from 71% (12/17) to 82% (14/17).
 
 ---
 
