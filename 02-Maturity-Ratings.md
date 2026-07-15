@@ -74,7 +74,7 @@
 | **Current Maturity** | **1** — Performed (Ad-hoc) |
 | **Target Maturity** | **3** — Defined (Standardized) |
 | **Gap** | **2** |
-| **Evidence** | No benefits realisation process exists. IT investments are approved without formal business cases, measurable KPIs, or post-implementation reviews. Value tracking is limited to budget variance. |
+| **Evidence** | No benefits realization process exists. IT investments are approved without formal business cases, measurable KPIs, or post-implementation reviews. Value tracking is limited to budget variance. |
 | **Key Observations** | Three major platform investments in the past year have no documented benefits tracking. Stakeholders report uncertainty about whether acquired platform consolidation delivered expected ROI. |
 
 ### EDM03 — Ensure Risk Optimisation

@@ -23,7 +23,7 @@
 | F03 | No IT Strategy Aligned to Business | APO02 | 2 | **High** | 2, 13 |
 | F04 | Fragmented IT Decision-Making | APO01, APO08 | 2 | **High** | 1, 3 |
 | F05 | No Enterprise IT Risk Management Process | EDM03, APO12 | 2 | **Critical** | 6, 7 |
-| F06 | No Formal Benefits Realisation Process | EDM02, BAI01 | 2 | **High** | 10, 16 |
+| F06 | No Formal Benefits Realization Process | EDM02, BAI01 | 2 | **High** | 10, 16 |
 | F07 | Post-Merger IT Integration Challenges | BAI01, BAI03 | 2 | **High** | 7, 11 |
 | F08 | Inadequate IT Security Governance | APO13, DSS05 | 2 | **Critical** | 7, 11, 12 |
 | F09 | No Enterprise Architecture Function | APO03 | 2 | **Medium** | 10, 13 |
@@ -64,7 +64,7 @@
 | **Maturity Gap** | **2** |
 | **Risk Rating** | **Critical** |
 | **COSO Principles** | 1 (Board oversight), 2 (Establishes oversight responsibilities), 16 (Conducts ongoing and separate evaluations) |
-| **Description** | There is no IT steering committee or equivalent governance body. IT investment prioritisation is performed informally by the CEO and CFO without structured input from business units or IT leadership. No formal escalation path exists for IT issues requiring executive attention. |
+| **Description** | There is no IT steering committee or equivalent governance body. IT investment prioritization is performed informally by the CEO and CFO without structured input from business units or IT leadership. No formal escalation path exists for IT issues requiring executive attention. |
 | **Root Cause** | Historical culture of founder-led decision-making persisted through growth phase. No recognition of need for structured governance body until now. |
 | **Business Impact** | Misaligned IT investments, duplication of technology spend, business unit frustration, no forum for strategic IT decision-making. |
 
@@ -78,7 +78,7 @@
 | **Target Maturity** | **3** — Defined (Standardized) |
 | **Maturity Gap** | **2** |
 | **Risk Rating** | **Critical** |
-| **COSO Principles** | 6 (Specifies objectives with sufficient clarity to enable risk identification), 7 (Identifies and analyses risks) |
+| **COSO Principles** | 6 (Specifies objectives with sufficient clarity to enable risk identification), 7 (Identifies and analyzes risks) |
 | **Description** | No formal enterprise risk management process for IT. There is no IT risk register, no risk appetite statement, and no regular risk assessment cycle. The 2025 ransomware attack was handled reactively. HIPAA compliance risk is not formally integrated with IT risk management. |
 | **Root Cause** | IT risk management viewed as a cybersecurity-only concern. Lack of risk management expertise. No board-level risk appetite definition. |
 | **Business Impact** | Undetected and unmitigated IT risks, increased likelihood of security incidents, regulatory non-compliance exposure, potential for material financial loss. |
@@ -93,7 +93,7 @@
 | **Target Maturity** | **4** — Measured (Quantitative) |
 | **Maturity Gap** | **2** |
 | **Risk Rating** | **Critical** |
-| **COSO Principles** | 7 (Identifies and analyses risks), 11 (Selects and develops general control activities over technology), 12 (Deploys controls through policies and procedures) |
+| **COSO Principles** | 7 (Identifies and analyzes risks), 11 (Selects and develops general control activities over technology), 12 (Deploys controls through policies and procedures) |
 | **Description** | While a CISO and security team exist, the security program is not mature. No ISO 27001-aligned ISMS, no formal vulnerability management, no security awareness program, and no security metrics. Security policies from acquired entities are inconsistent. |
 | **Root Cause** | Security investment prioritized technology (tools) over governance (policies, processes, metrics). Acquisitions introduced heterogeneous security postures. |
 | **Business Impact** | Elevated risk of data breach (healthcare data), HIPAA violation exposure, patient safety risk, reputational damage, potential HHS/OCR implications as company scales. |
@@ -111,8 +111,8 @@
 | **Maturity Gap** | **1** |
 | **Risk Rating** | **Medium** |
 | **COSO Principles** | 3 (Structure and authority), 10 (Control activities) |
-| **Description** | IT budget management is siloed by department. Duplicate tools and platforms across acquired entities (3 EHR systems, 2 identity platforms) indicate resource inefficiency. IT spend at 5.2% of revenue (benchmark: 3.8%) suggests 25-30% cost optimisation opportunity. |
-| **Root Cause** | No enterprise-level IT resource planning or portfolio rationalisation. Acquisitions integrated operationally but not technologically. |
+| **Description** | IT budget management is siloed by department. Duplicate tools and platforms across acquired entities (3 EHR systems, 2 identity platforms) indicate resource inefficiency. IT spend at 5.2% of revenue (benchmark: 3.8%) suggests 25-30% cost optimization opportunity. |
+| **Root Cause** | No enterprise-level IT resource planning or portfolio rationalization. Acquisitions integrated operationally but not technologically. |
 | **Business Impact** | Higher than necessary IT operating costs, capital tied up in redundant systems, inability to redirect resources to strategic initiatives. |
 
 ---
@@ -149,7 +149,7 @@
 | **Root Cause** | Legacy of decentralized operations pre-acquisition. No formal IT governance charter defining decision rights. IT perceived as bottleneck. |
 | **Business Impact** | Technology sprawl, redundant spend, integration complexity, security blind spots, inability to enforce standards. |
 
-### F06 — No Formal Benefits Realisation Process
+### F06 — No Formal Benefits Realization Process
 
 | Attribute | Detail |
 |---|---|

@@ -83,8 +83,8 @@ COSO 2013 Internal Control — Integrated Framework
 | Status | **Partially Addressed** |
 |---|---|
 | **Coverage** | F01, F04, F10, F15 |
-| **Analysis** | IT organisational structures exist but are inconsistent across acquisitions. Authority for IT decisions is undefined (F01, F04). IT roles lack standardized responsibility definitions (F10). Resource allocation authority is fragmented (F15). |
-| **Gap** | No enterprise-wide IT organisation chart. IT authority matrix not documented. Role duplication and gaps exist across entities. |
+| **Analysis** | IT organizational structures exist but are inconsistent across acquisitions. Authority for IT decisions is undefined (F01, F04). IT roles lack standardized responsibility definitions (F10). Resource allocation authority is fragmented (F15). |
+| **Gap** | No enterprise-wide IT organization chart. IT authority matrix not documented. Role duplication and gaps exist across entities. |
 
 #### Principle 4 — Demonstrates Commitment to Competence
 
@@ -114,7 +114,7 @@ COSO 2013 Internal Control — Integrated Framework
 | **Analysis** | IT objectives are not formally defined or communicated in a way that enables risk identification. The absence of an IT risk management process (F05) means risk assessment cannot be properly conducted. |
 | **Gap** | No defined IT objectives hierarchy. No risk appetite thresholds. Operational and compliance objectives not linked to risk assessment. |
 
-#### Principle 7 — Identifies and Analyses Risks
+#### Principle 7 — Identifies and Analyzes Risks
 
 | Status | **Partially Addressed** |
 |---|---|
@@ -135,7 +135,7 @@ COSO 2013 Internal Control — Integrated Framework
 | Status | **Not Addressed** |
 |---|---|
 | **Coverage** | None |
-| **Analysis** | Organisational, regulatory, and technology changes are not systematically assessed for their impact on internal control. The rapid acquisition and growth context makes this a significant gap. |
+| **Analysis** | Organizational, regulatory, and technology changes are not systematically assessed for their impact on internal control. The rapid acquisition and growth context makes this a significant gap. |
 | **Gap** | No change impact assessment process for internal control. Regulatory change monitoring is manual and incomplete. |
 
 ---
@@ -147,7 +147,7 @@ COSO 2013 Internal Control — Integrated Framework
 | Status | **Partially Addressed** |
 |---|---|
 | **Coverage** | F06, F09, F12, F14, F15 |
-| **Analysis** | Control activities are inconsistently applied. Project governance controls (F06), enterprise architecture standards (F09), and IT operations controls (F14) are weak. The absence of an internal control framework (F12) means control activities are not systematically selected or designed. Resource optimisation controls (F15) are absent. |
+| **Analysis** | Control activities are inconsistently applied. Project governance controls (F06), enterprise architecture standards (F09), and IT operations controls (F14) are weak. The absence of an internal control framework (F12) means control activities are not systematically selected or designed. Resource optimization controls (F15) are absent. |
 | **Gap** | Control activities are not mapped to objectives. No control selection methodology. Preventive and detective controls are unbalanced. |
 
 #### Principle 11 — Selects and Develops General Controls over Technology
@@ -163,7 +163,7 @@ COSO 2013 Internal Control — Integrated Framework
 | Status | **Minimally Addressed** |
 |---|---|
 | **Coverage** | F08, F12 |
-| **Analysis** | IT policies exist in some areas (F08) but are inconsistent across entities. Policy management is decentralised. No policy lifecycle management process. The internal control framework (F12) is absent, meaning control deployment lacks structure. |
+| **Analysis** | IT policies exist in some areas (F08) but are inconsistent across entities. Policy management is decentralized. No policy lifecycle management process. The internal control framework (F12) is absent, meaning control deployment lacks structure. |
 | **Gap** | Inconsistent policy framework. No central policy repository. No policy review or approval process. |
 
 ---
@@ -203,7 +203,7 @@ COSO 2013 Internal Control — Integrated Framework
 | Status | **Partially Addressed** |
 |---|---|
 | **Coverage** | F02, F06, F11 |
-| **Analysis** | No ongoing or periodic evaluation of IT internal controls. The absence of an IT steering committee (F02) means no governance oversight body conducts evaluations. Benefits realisation reviews (F06) are absent. Performance monitoring (F11) is not conducted. |
+| **Analysis** | No ongoing or periodic evaluation of IT internal controls. The absence of an IT steering committee (F02) means no governance oversight body conducts evaluations. Benefits realization reviews (F06) are absent. Performance monitoring (F11) is not conducted. |
 | **Gap** | No internal control evaluation program. No IT audit function. Evaluation scope and frequency are undefined. |
 
 #### Principle 17 — Evaluates and Communicates Deficiencies

@@ -50,7 +50,7 @@ OmniCare Health has grown from a focused telemedicine provider to a $200M health
 
 While the overall maturity is low, the assessment identified several areas OmniCare can build upon:
 
-1. **Executive awareness and commitment** — Leadership recognises the governance gap and has sponsored this assessment. The CEO, CFO, and CTO are aligned on the need for change.
+1. **Executive awareness and commitment** — Leadership recognizes the governance gap and has sponsored this assessment. The CEO, CFO, and CTO are aligned on the need for change.
 2. **Technical engineering capability** — The engineering team follows sound development practices (CI/CD, code review). BAI03 scored at Level 2, the highest in the BAI domain.
 3. **Basic security foundation** — A CISO and security team exist with fundamental controls deployed (antivirus, firewall, MFA). This provides a base to build a comprehensive security program.
 4. **Financial discipline** — IT budget management, while siloed, is practiced at the departmental level. This indicates capability to adopt enterprise-level resource management.
@@ -75,7 +75,7 @@ While the overall maturity is low, the assessment identified several areas OmniC
 |---|---|---|
 | **F03** | No IT Strategy Aligned to Business | **High** |
 | **F04** | Fragmented IT Decision-Making | **High** |
-| **F06** | No Formal Benefits Realisation Process | **High** |
+| **F06** | No Formal Benefits Realization Process | **High** |
 | **F07** | Post-Merger IT Integration Challenges | **High** |
 | **F11** | No IT Performance Monitoring | **High** |
 | **F12** | Lack of Internal Control Framework (SOX) | **High** |
@@ -110,10 +110,10 @@ While the overall maturity is low, the assessment identified several areas OmniC
 ```
 Current State (Q2 2026)                   Target State (Q4 2027)
 ┌─────────────────────┐                   ┌─────────────────────────┐
-│  Avg Maturity: 1.47 │                   │  Avg Maturity: 3.16     │
+│  Avg Maturity: 1.37 │                   │  Avg Maturity: 3.16     │
 │  Ad-hoc governance  │                   │  Defined governance     │
 │  No ITSC            │  ──────────────►  │  IT Steering Committee  │
-│  Fragmented IT      │   12–18 months    │  Centralised decisions  │
+│  Fragmented IT      │   12–18 months    │  Centralized decisions  │
 │  No risk process    │   12 initiatives  │  Embedded risk mgmt     │
 │  No internal ctrl   │   $1.6M–$2.5M     │  SOX-ready controls     │
 │  Weak security gov  │                   │  Measured security      │
@@ -142,7 +142,7 @@ Current State (Q2 2026)                   Target State (Q4 2027)
 | **Phase 1 — Quick Wins** | Months 1–3 | $450K–$650K | +0.4 maturity |
 | **Phase 2 — Medium-Term** | Months 4–8 | $650K–$1.1M | +0.8 maturity |
 | **Phase 3 — Strategic** | Months 9–18 | $600K–$800K | +0.5 maturity |
-| **Total** | **18 months** | **$1.6M–$2.5M** | **1.47 → 3.16** |
+| **Total** | **18 months** | **$1.6M–$2.5M** | **1.37 → 3.16** |
 
 **Estimated annual benefit:** $4.1M–$6.8M (cost savings, risk reduction, operational efficiency)
 
@@ -167,11 +167,11 @@ Current State (Q2 2026)                   Target State (Q4 2027)
 
 ## Conclusion
 
-OmniCare Health's IT governance maturity of **1.47/5.0** is characteristic of a rapidly scaled organisation that has outgrown its informal governance model. The gap to the target of **3.16** is significant but achievable within **12–18 months** with executive commitment and a structured investment of **$1.6M–$2.5M**.
+OmniCare Health's IT governance maturity of **1.37/5.0** is characteristic of a rapidly scaled organization that has outgrown its informal governance model. The gap to the target of **3.16** is significant but achievable within **12–18 months** with executive commitment and a structured investment of **$1.6M–$2.5M**.
 
 The four critical-risk findings — absence of governance framework, no steering committee, no risk management process, and inadequate security governance — must be addressed as a priority. These foundational gaps underpin all other deficiencies and are prerequisites for SOX readiness.
 
-Critically, the recommended investment of **$1.6M–$2.5M** is expected to deliver **$4.1M–$6.8M** in annual benefits through cost optimisation (reducing IT spend from 5.2% to 3.8% of revenue), risk reduction (lower insurance premiums, avoided incidents), and SOX compliance (avoiding material weakness findings).
+Critically, the recommended investment of **$1.6M–$2.5M** is expected to deliver **$4.1M–$6.8M** in annual benefits through cost optimization (reducing IT spend from 5.2% to 3.8% of revenue), risk reduction (lower insurance premiums, avoided incidents), and SOX compliance (avoiding material weakness findings).
 
 **The cost of inaction** — continued regulatory exposure, fragmented IT costs, inability to achieve SOX compliance, and elevated security risk — far exceeds the investment required to reach a defined, standardized governance state.
 

@@ -24,14 +24,14 @@
 | R04 | Create Post-Merger IT Integration Playbook | F07 | **P1** | 3 months | BAI01: 1→3 |
 | R05 | Launch IT Security Governance Program | F08 | **P1** | 6 months | APO13: 2→4, DSS05: 2→4 |
 | R06 | Establish Enterprise Architecture Function | F09 | **P2** | 6 months | APO03: 1→3 |
-| R07 | Implement Benefits Realisation Framework | F06 | **P2** | 4 months | EDM02: 1→3 |
+| R07 | Implement Benefits Realization Framework | F06 | **P2** | 4 months | EDM02: 1→3 |
 | R08 | Deploy IT Performance Monitoring Dashboard | F11 | **P2** | 3 months | MEA01: 1→3 |
 | R09 | Build Internal Control Framework for SOX Readiness | F12 | **P2** | 8 months | MEA02: 1→3 |
 | R10 | Formalise IT Operations Management Processes | F14 | **P3** | 4 months | DSS01: 2→3 |
 | R11 | Develop IT HR Competency and Workforce Framework | F10 | **P3** | 3 months | APO07: 2→3 |
 | R12 | Implement Compliance Management Program | F13 | **P2** | 5 months | MEA03: 1→3 |
 | R13 | Establish IT Decision Rights Framework | F04 | **P1** | 8 weeks | APO01: 1→3, APO08: 1→3 |
-| R14 | Implement IT Resource Portfolio Rationalisation | F15 | **P2** | 6 weeks | EDM04: 2→3 |
+| R14 | Implement IT Resource Portfolio Rationalization | F15 | **P2** | 6 weeks | EDM04: 2→3 |
 
 ---
 
@@ -92,7 +92,7 @@
 | **Effort** | 3 months |
 | **Investment** | $80K–$120K (internal PMO + external M&A IT advisor) |
 | **Expected Maturity Uplift** | BAI01: 1 → 3 |
-| **Description** | Develop a standardized post-merger IT integration playbook covering: Day 1 readiness, identity and access integration, application rationalisation, infrastructure consolidation, data migration, and security control harmonisation. Apply retroactively to existing acquisitions while creating a template for future M&A. |
+| **Description** | Develop a standardized post-merger IT integration playbook covering: Day 1 readiness, identity and access integration, application rationalization, infrastructure consolidation, data migration, and security control harmonization. Apply retroactively to existing acquisitions while creating a template for future M&A. |
 | **Success Metrics** | Integration playbook documented and approved; existing acquisitions have integration plans with milestone tracking; future acquisitions follow playbook from Day 1. |
 
 ---
@@ -145,7 +145,7 @@
 
 ---
 
-#### R07 — Implement Benefits Realisation Framework
+#### R07 — Implement Benefits Realization Framework
 
 | Attribute | Detail |
 |---|---|
@@ -154,8 +154,8 @@
 | **Effort** | 4 months |
 | **Investment** | $80K–$120K (PMO resources + process design) |
 | **Expected Maturity Uplift** | EDM02: 1 → 3 |
-| **Description** | Define a standard business case template with mandatory benefit profiles, financial metrics (NPV, ROI, payback period), and non-financial benefits. Establish a benefits realisation process that tracks expected benefits through project delivery and for 12 months post-implementation. Conduct post-implementation reviews on all major investments. |
-| **Success Metrics** | 100% of IT investments above $100K have approved business cases; quarterly benefits realisation reports produced; post-implementation reviews conducted within 3 months of go-live. |
+| **Description** | Define a standard business case template with mandatory benefit profiles, financial metrics (NPV, ROI, payback period), and non-financial benefits. Establish a benefits realization process that tracks expected benefits through project delivery and for 12 months post-implementation. Conduct post-implementation reviews on all major investments. |
+| **Success Metrics** | 100% of IT investments above $100K have approved business cases; quarterly benefits realization reports produced; post-implementation reviews conducted within 3 months of go-live. |
 
 ---
 
@@ -196,14 +196,14 @@
 | **Effort** | 5 months |
 | **Investment** | $100K–$150K (compliance tooling + 1 FTE Compliance Analyst) |
 | **Expected Maturity Uplift** | MEA03: 1 → 3 |
-| **Description** | Implement a compliance management tool to centralise regulatory obligation registers (HIPAA, HITECH, GDPR, SOX). Establish automated control testing and evidence collection workflows. Implement regulatory change monitoring. Increase compliance headcount to support the expanded scope. |
+| **Description** | Implement a compliance management tool to centralize regulatory obligation registers (HIPAA, HITECH, GDPR, SOX). Establish automated control testing and evidence collection workflows. Implement regulatory change monitoring. Increase compliance headcount to support the expanded scope. |
 | **Success Metrics** | Centralised obligation register established; automated evidence collection for key controls; regulatory change monitoring in place; compliance reporting cycle established. |
 
 ---
 
 ---
 
-#### R14 — Implement IT Resource Portfolio Rationalisation
+#### R14 — Implement IT Resource Portfolio Rationalization
 
 | Attribute | Detail |
 |---|---|
@@ -212,8 +212,8 @@
 | **Effort** | 6 weeks |
 | **Investment** | $100K–$150K (consulting + tooling) |
 | **Expected Maturity Uplift** | EDM04: 2 → 3 |
-| **Description** | Conduct a full IT asset and resource inventory across all business units and acquired entities. Identify underutilized resources, duplicate systems, and consolidation opportunities. Develop a resource optimisation roadmap with cost-saving targets. Implement a resource portfolio management process with quarterly rationalisation reviews. |
-| **Success Metrics** | Complete IT asset inventory documented; resource optimisation roadmap approved; 10-15% IT cost reduction identified; quarterly rationalisation review cycle established. |
+| **Description** | Conduct a full IT asset and resource inventory across all business units and acquired entities. Identify underutilized resources, duplicate systems, and consolidation opportunities. Develop a resource optimization roadmap with cost-saving targets. Implement a resource portfolio management process with quarterly rationalization reviews. |
+| **Success Metrics** | Complete IT asset inventory documented; resource optimization roadmap approved; 10-15% IT cost reduction identified; quarterly rationalization review cycle established. |
 
 ---
 
@@ -264,8 +264,8 @@
 | Month | R05 | R06 | R07 | R08 | R09 | R12 | R14 |
 |---|---|---|---|---|---|---|---|---|
 | **M4** | SIEM deployment | EA hiring | Business case template | Dashboard requirements | ITGC scoping | Compliance tool selection | Asset inventory |
-| **M5** | Awareness program launch | ARB formation | Benefits tracking process | Dashboard prototype | Control documentation | Obligation register | Utilisation analysis |
-| **M6** | Access review process | Current-state architecture | First post-implementation review | Dashboard go-live | Control testing | Automated evidence | Rationalisation plan |
+| **M5** | Awareness program launch | ARB formation | Benefits tracking process | Dashboard prototype | Control documentation | Obligation register | Utilization analysis |
+| **M6** | Access review process | Current-state architecture | First post-implementation review | Dashboard go-live | Control testing | Automated evidence | Rationalization plan |
 | **M7** | Incident response testing | Target-state architecture | — | — | Remediation | Regulatory monitoring | Roadmap approval |
 | **M8** | Security program review | Roadmap approval | — | — | Pre-audit assessment | Compliance reporting | Review cycle launch |
 
@@ -274,7 +274,7 @@
 | Month | R09 | R10 | R11 |
 |---|---|---|---|
 | **M9–10** | SOX pre-audit | ITSM framework selection | Competency framework |
-| **M11–12** | Control optimisation | Process redesign | Career paths |
+| **M11–12** | Control optimization | Process redesign | Career paths |
 | **M13–15** | Ongoing monitoring | Service catalogue launch | Training program |
 | **M16–18** | External audit support | OLA implementation | Workforce plan |
 
@@ -290,14 +290,14 @@
 | R04 — M&A Integration Playbook | $80K–$120K | $500K–$1M per future acquisition (integration savings) | Immediate per deal |
 | R05 — Security Governance | $250K–$400K | $500K–$1M (breach cost avoidance) | 6–12 months |
 | R06 — Enterprise Architecture | $200K–$300K | $300K–$500K (reduced integration cost, faster delivery) | 8–12 months |
-| R07 — Benefits Realisation | $80K–$120K | $200K–$400K (better investment decisions) | 4–6 months |
+| R07 — Benefits Realization | $80K–$120K | $200K–$400K (better investment decisions) | 4–6 months |
 | R08 — Performance Dashboard | $60K–$100K | $100K–$200K (improved decision-making) | 6–12 months |
 | R09 — SOX Internal Controls | $300K–$500K | $1M–$2M (SOX compliance, audit cost reduction) | 12–18 months |
 | R10 — IT Operations | $100K–$150K | $200K–$400K (reduced downtime, productivity) | 6–9 months |
 | R11 — HR Competency Framework | $60K–$90K | $150K–$250K (reduced turnover, hiring cost) | 12 months |
 | R12 — Compliance Program | $100K–$150K | $300K–$500K (fine avoidance, audit efficiency) | 6–12 months |
 | R13 — IT Decision Rights Framework | $80K–$120K | $200K–$400K (faster decisions, reduced duplication) | 4–6 months |
-| R14 — Resource Portfolio Rationalisation | $100K–$150K | $300K–$500K (cost savings, consolidation) | 4–6 months |
+| R14 — Resource Portfolio Rationalization | $100K–$150K | $300K–$500K (cost savings, consolidation) | 4–6 months |
 | **Total Investment** | **$1.6M–$2.5M** | **$4.1M–$6.8M** | **6–12 months avg.** |
 
 ---
